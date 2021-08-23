@@ -1,0 +1,6 @@
+module Pods_wonderbites_wonderbitesTests {
+  umbrella header "Pods-wonderbites-wonderbitesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
